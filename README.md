@@ -1,0 +1,1 @@
+# Notes, important concepts, points captured as part of [book reading club](https://groups.google.com/g/postgresql-14-internals-book-club) for _PostgreSQL 14 Internals Book Club_
