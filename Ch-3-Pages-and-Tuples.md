@@ -18,4 +18,4 @@ Note :
 # References from book reading google group
 1. [Database Page layout](https://www.postgresql.org/docs/14/storage-page-layout.html)
 2. [_pageinspect_ : module providing functions that allow you to inspect the contents of database pages at a low level](https://www.postgresql.org/docs/14/pageinspect.html)
-3. 
+3. [Found of Loom taling about postgres JSONb](https://twitter.com/vhmth/status/1773092591522717849?t=i01Y6KRKm1SBzkiHEWqNQw&s=19)
