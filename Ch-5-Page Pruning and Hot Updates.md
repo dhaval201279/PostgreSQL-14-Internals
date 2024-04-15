@@ -9,11 +9,15 @@ Page pruning removes the tuples that cannot be visible in any snapshot anymore
 
 # HOT (Heap Only Tuple) Updates
 
+
 # Page Pruning for HOT Updates
+
 
 # HOT Chain Splits
 
+
 # References from book reading google group
-1. [HOT Readme](https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=REL_14_STABLE)
-2. [B-TREE Deletion](https://www.postgresql.org/docs/14/btree-implementation.html#BTREE-DELETION)
-3. [B-TREE](https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/access/nbtree/README;hb=REL_14_STABLE)
+1. [Postgres Performance Boost: HOT Updates and Fill Factor](https://www.crunchydata.com/blog/postgres-performance-boost-hot-updates-and-fill-factor)
+2. [HOT Readme](https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=REL_14_STABLE)
+3. [B-TREE Deletion](https://www.postgresql.org/docs/14/btree-implementation.html#BTREE-DELETION)
+4. [B-TREE](https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/access/nbtree/README;hb=REL_14_STABLE)
